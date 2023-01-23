@@ -1,0 +1,5 @@
+﻿  GameWindow.cpp
+C:\Users\Dev\Games\Pacman Clone\src\Engine\Graphics\GameWindow.cpp(14,9): warning C4551: function call missing argument list
+  EntryPoint.cpp
+  Generating Code...
+  Pacman Clone.vcxproj -> C:\Users\Dev\Games\Pacman Clone\Debug\Output\Pacman Clone.exe
